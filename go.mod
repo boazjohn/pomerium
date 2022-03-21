@@ -10,13 +10,13 @@ require (
 	github.com/btcsuite/btcutil v1.0.2
 	github.com/caddyserver/certmagic v0.13.1
 	github.com/cenkalti/backoff/v4 v4.1.0
-	github.com/cespare/xxhash/v2 v2.1.1
+	github.com/cespare/xxhash/v2 v2.1.2
 	github.com/coreos/go-oidc/v3 v3.0.0
 	github.com/envoyproxy/go-control-plane v0.9.9-0.20210217033140-668b12f5399d
 	github.com/envoyproxy/protoc-gen-validate v0.6.1
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/go-chi/chi v1.5.4
-	github.com/go-redis/redis/v8 v8.8.3
+	github.com/go-redis/redis/v8 v8.11.5
 	github.com/golang/mock v1.5.0
 	github.com/golang/protobuf v1.5.2
 	github.com/google/btree v1.0.1
